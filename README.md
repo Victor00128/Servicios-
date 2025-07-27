@@ -2,11 +2,11 @@
 
 ¡Bienvenido a mi rincón personal en la web! Este no es solo un portafolio, es un proyecto nacido de la curiosidad y la pasión por crear experiencias digitales memorables. Construido desde cero, este sitio combina una estética futurista "Lava & Metal" con animaciones fluidas para presentar mis habilidades como desarrollador web.
 
-**[Ver el Proyecto en Vivo 🚀](URL_DEL_SITIO_EN_VIVO)**
+**[Ver el Proyecto en Vivo 🚀](URL_DEL_SITIO_EN_VIVO_AQUI)**
 
 ---
 
-![Captura de pantalla del portafolio](https://github.com/Victor00128/Servicios-/issues/1)
+![Captura de pantalla del portafolio](https://private-user-images.githubusercontent.com/216435158/471157674-9e4b125d-f19a-4ff8-8d95-3c97aff717d2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM1NzU2ODUsIm5iZiI6MTc1MzU3NTM4NSwicGF0aCI6Ii8yMTY0MzUxNTgvNDcxMTU3Njc0LTllNGIxMjVkLWYxOWEtNGZmOC04ZDk1LTNjOTdhZmY3MTdkMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyN1QwMDE2MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZDFkODY2MmUxODQ4OWQwOTBmNzMwZDQ0NDZlOWYyZjJiMGZkNjgxYzJhMWJmYWE3MzM4YjEwYjM5OWVlMmQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Fqou7ltMmBHJA15AXb0qmA80w5qxluh6IbdxgoZGIpg)
 
 ## ✨ Características Principales
 
@@ -41,11 +41,11 @@ Si deseas ejecutar este proyecto de forma local, puedes seguir estos sencillos p
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/Victor00128/nombre-del-repositorio.git
+    git clone https://github.com/Victor00128/Servicios-.git
     ```
 2.  **Navega a la carpeta del proyecto:**
     ```bash
-    cd nombre-del-repositorio
+    cd Servicios-
     ```
 3.  **Abre el archivo `index.html`** en tu navegador. ¡No se requiere ningún paso de compilación!
 

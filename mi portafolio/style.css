@@ -1,13 +1,13 @@
-/* --- 1. PALETA DE COLORES "LAVA & METAL" --- */
+/* Colores */
 :root {
-    --color-primary-glow: #ff4d00;  /* Naranja brillante principal */
-    --color-accent-hot: #ff8c00;    /* Naranja oscuro para acentos y gradientes */
-    --color-background-deep: #0d0c0f; /* Fondo de carbón muy oscuro */
-    --color-surface-dark: #1a1a1d;  /* Superficie secundaria ligeramente más clara */
+    --color-primary-glow: #ff4d00;
+    --color-accent-hot: #ff8c00;
+    --color-background-deep: #0d0c0f;
+    --color-surface-dark: #1a1a1d;
     --color-white: #ffffff;
-    --color-text: #e0e0e0;         /* Texto principal, blanco no puro */
-    --color-text-muted: #a9a29c;   /* Texto secundario, gris cálido */
-    --color-glass-bg: rgba(255, 77, 0, 0.05); /* Tinte naranja para el efecto "glass" */
+    --color-text: #e0e0e0;
+    --color-text-muted: #a9a29c;
+    --color-glass-bg: rgba(255, 77, 0, 0.05);
 
     --font-family-headings: 'Orbitron', sans-serif;
     --font-family-body: 'Poppins', sans-serif;
@@ -16,7 +16,7 @@
     --shadow-lg: 0 10px 25px rgba(255, 77, 0, 0.1);
 }
 
-/* --- Reseteo Básico y Estilos Globales --- */
+/* Global */
 html { scroll-behavior: smooth; box-sizing: border-box; }
 *, *:before, *:after { box-sizing: inherit; }
 body { 
@@ -32,11 +32,7 @@ h1, h2, h3, .nav-logo { font-family: var(--font-family-headings); color: var(--c
 .container { max-width: 1100px; margin: 0 auto; padding: 0 2rem; }
 .section-title { font-size: clamp(2rem, 5vw, 2.5rem); font-weight: 700; text-align: center; margin-bottom: 3rem; text-shadow: 0 0 15px rgba(255, 77, 0, 0.4); }
 
-/*
-===========================================================
-  PRELOADER
-===========================================================
-*/
+/* Preloader */
 #preloader { background-color: var(--color-background-deep); position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 9999; display: flex; justify-content: center; align-items: center; flex-direction: column; transition: opacity 1.5s ease, visibility 1.5s ease; }
 .preloader-hidden { opacity: 0; visibility: hidden; }
 .preloader-content { display: flex; flex-direction: column; align-items: center; justify-content: center; }
@@ -62,11 +58,7 @@ h1, h2, h3, .nav-logo { font-family: var(--font-family-headings); color: var(--c
 .preloader-progress-bar { width: 100%; max-width: 400px; height: 3px; background-color: rgba(255, 77, 0, 0.1); border-radius: 3px; margin-top: 2rem; overflow: hidden; }
 .preloader-progress-bar .progress { width: 0%; height: 100%; background: linear-gradient(90deg, var(--color-accent-hot), var(--color-primary-glow)); border-radius: 3px; transition: width 1s ease-out; box-shadow: 0 0 10px var(--color-primary-glow); }
 
-/*
-===========================================================
-  ESTILOS GENERALES DEL SITIO
-===========================================================
-*/
+/* Estilos Generales */
 .reveal { opacity: 0; transform: translateY(40px); transition: opacity 0.8s ease-out, transform 0.8s ease-out; }
 .reveal.visible { opacity: 1; transform: translateY(0); }
 .main-header { background: rgba(13, 12, 15, 0.8); backdrop-filter: blur(10px); padding: 1rem 0; position: fixed; width: 100%; z-index: 1000; border-bottom: 1px solid rgba(255, 77, 0, 0.2); }

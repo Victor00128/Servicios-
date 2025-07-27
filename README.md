@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi rincón personal en la web! Este no es solo un portafolio, es un proyecto nacido de la curiosidad y la pasión por crear experiencias digitales memorables. Construido desde cero, este sitio combina una estética futurista "Lava & Metal" con animaciones fluidas para presentar mis habilidades como desarrollador web.
 
-**[Ver el Proyecto en Vivo 🚀].)*(https://mi-portafolio-services.netlify.app/)*
+**[Ver el Proyecto en Vivo 🚀](https://mi-portafolio-services.netlify.app/)**
 
 ---
 

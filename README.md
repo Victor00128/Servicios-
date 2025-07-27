@@ -6,7 +6,7 @@
 
 ---
 
-![Captura de pantalla del portafolio](./mi portafolio/imagens/imagen.png)
+![Captura de pantalla del portafolio]( ./mi portafolio/imagens/imagen.png)
 
 ## ✨ Características Principales
 

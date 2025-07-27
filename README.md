@@ -6,7 +6,7 @@
 
 ---
 
-![Captura de pantalla del portafolio]((https://github.com/Victor00128/Servicios-/issues/1))
+![Captura de pantalla del portafolio](https://github.com/Victor00128/Servicios-/issues/1)
 
 ## ✨ Características Principales
 

@@ -6,7 +6,7 @@
 
 ---
 
-![Captura de pantalla del portafolio](URL_DE_LA_IMAGEN_O_GIF)
+![Captura de pantalla del portafolio](URL_DE_LA_CAPTURA_DE_PANTALLA)
 
 ## ✨ Características Principales
 
@@ -41,11 +41,11 @@ Si deseas ejecutar este proyecto de forma local, puedes seguir estos sencillos p
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/Victor00128/nombre-del-repositorio.git
     ```
 2.  **Navega a la carpeta del proyecto:**
     ```bash
-    cd tu-repositorio
+    cd nombre-del-repositorio
     ```
 3.  **Abre el archivo `index.html`** en tu navegador. ¡No se requiere ningún paso de compilación!
 
@@ -53,10 +53,9 @@ El sitio está desplegado en **Netlify** y conectado directamente a la rama `mai
 
 ## ✉️ Contacto
 
-Si te ha gustado el proyecto, tienes alguna pregunta o simplemente quieres hablar de tecnología (o del aburrimiento creativo que a veces nos inspira), no dudes en contactarme.
+Si te ha gustado el proyecto, tienes alguna pregunta o simplemente quieres hablar de tecnología (o del aburrimiento creativo que a veces nos inspira), no dudes en encontrarme en GitHub.
 
-*   **Correo Electrónico:** `c32549507@gmail.com`
-*   **GitHub:** [Tu Perfil de GitHub](https://github.com/tu-usuario)
+*   **GitHub:** [@Victor00128](https://github.com/Victor00128)
 
 ---
 

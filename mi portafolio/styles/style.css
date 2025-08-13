@@ -1,0 +1,28 @@
+/*
+ * Archivo Principal de Estilos
+ *
+ * Este archivo no contiene estilos directamente.
+ * Su propósito es importar todos los módulos de CSS en el orden correcto.
+ * La modularización mejora la mantenibilidad del código.
+ */
+
+/* 1. Variables y Configuraciones Globales */
+@import url('_variables.css');
+
+/* 2. Estilos de Base (reset, body, tipografía) */
+@import url('_base.css');
+
+/* 2.5. Clases de Utilidad para Accesibilidad */
+@import url('_accessibility.css');
+
+/* 3. Maquetación (header, footer, secciones) */
+@import url('_layout.css');
+
+/* 4. Componentes Reutilizables (botones, formularios) */
+@import url('_components.css');
+
+/* 5. Estilos de Componentes Específicos (preloader) */
+@import url('_preloader.css');
+
+/* 6. Estilos Responsivos (media queries) */
+@import url('_responsive.css');

@@ -1,0 +1,17 @@
+/* Colores y Fuentes */
+:root {
+    --color-primary-glow: #ff4d00;
+    --color-accent-hot: #ff8c00;
+    --color-background-deep: #0d0c0f;
+    --color-surface-dark: #1a1a1d;
+    --color-white: #ffffff;
+    --color-text: #e0e0e0;
+    --color-text-muted: #a9a29c;
+    --color-glass-bg: rgba(255, 77, 0, 0.05);
+
+    --font-family-headings: 'Orbitron', sans-serif;
+    --font-family-body: 'Poppins', sans-serif;
+
+    --transition-speed: 0.4s;
+    --shadow-lg: 0 10px 25px rgba(255, 77, 0, 0.1);
+}

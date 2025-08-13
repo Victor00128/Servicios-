@@ -28,8 +28,8 @@ Este sitio fue construido utilizando tecnologías web fundamentales, demostrando
 | Tecnología | Descripción |
 | :--- | :--- |
 | **HTML5** | Para la estructura semántica y el contenido del sitio. |
-| **CSS3** | Para todo el diseño visual, animaciones complejas con `keyframes`, y el diseño responsivo. |
-| **JavaScript (ES6+)** | Para la lógica interactiva, la orquestación del preloader y la gestión del envío del formulario de contacto (AJAX/Fetch). |
+| **CSS3** | Para todo el diseño visual, animaciones y diseño responsivo. El código está organizado en módulos para mejorar la mantenibilidad. |
+| **JavaScript (ES6+)** | Para toda la lógica interactiva. El código ha sido refactorizado en módulos ES6 para una mejor organización y escalabilidad. |
 | **Typed.js** | Librería externa para la animación de texto mecanografiado en la sección principal. |
 | **Formspree** | Servicio de back-end para hacer funcionar el formulario de contacto de manera simple y segura. |
 | **Git & GitHub** | Para el control de versiones del proyecto. |
@@ -47,7 +47,7 @@ Si deseas ejecutar este proyecto de forma local, puedes seguir estos sencillos p
     ```bash
     cd Servicios-
     ```
-3.  **Abre el archivo `index.html`** en tu navegador. ¡No se requiere ningún paso de compilación!
+3.  **Abre el archivo `mi portafolio/index.html`** en tu navegador. ¡No se requiere ningún paso de compilación!
 
 El sitio está desplegado en **Netlify** y conectado directamente a la rama `main` de este repositorio. Cualquier `git push` a `main` desencadenará un nuevo despliegue automático.
 

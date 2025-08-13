@@ -1,0 +1,50 @@
+/* Estilos Globales y de Base */
+html {
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: var(--font-family-body);
+    margin: 0;
+    line-height: 1.6;
+    background-color: var(--color-background-deep);
+    background-image: radial-gradient(ellipse at center, #1a1a1d 0%, #0d0c0f 70%);
+    color: var(--color-text-muted);
+    overflow-x: hidden;
+}
+
+h1, h2, h3, .nav-logo {
+    font-family: var(--font-family-headings);
+    color: var(--color-white);
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.section-title {
+    font-size: clamp(2rem, 5vw, 2.5rem);
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 3rem;
+    text-shadow: 0 0 15px rgba(255, 77, 0, 0.4);
+}
+
+/* Clases de utilidad */
+.reveal {
+    opacity: 0;
+    transform: translateY(40px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
